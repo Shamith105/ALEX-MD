@@ -85,7 +85,7 @@ https://whatsapp.com/channel/0029VagEOTtHwXbDdrr7Eq3k
      
           `𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔`
 > ⟡━⟪  𝘔𝘙 𝘈𝘓𝘌𝘟 - 𝘐𝘋  ⟫━⟡
-           `⦁│ᴘʀᴏɢʀᴀᴍꜱ│⦁``;
+           ⦁│ᴘʀᴏɢʀᴀᴍꜱ│⦁`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/353e86db7ae0ef9bccec0.jpg` }, caption: up })
 
