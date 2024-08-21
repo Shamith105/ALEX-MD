@@ -16,7 +16,6 @@
   <p align="center">
 <a href="https://github.com/Arajuna/ALEX-MD.git/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-OWNER - ALEX-ID
+                                   OWNER - ALEX-ID
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
