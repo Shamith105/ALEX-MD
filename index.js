@@ -75,9 +75,9 @@ ALEX-MD IS A VERY POWERFUL WHATSAPP BOT
 BASE BUILD USING BY BAILEYES API KEYS
 
 
-ᴘᴏᴡᴇʀᴅ ʙʏ ᴏꜰᴄ ʙʜᴀꜱʜɪᴛʜᴀ`;
+𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙈𝙍 𝘼𝙇𝙀𝙓-𝙄𝘿 `;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/353e86db7ae0ef9bccec0.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/d7e4a702a1b70a78c29ba.jpg` }, caption: up })
 
 }
 })
@@ -174,7 +174,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("hey, bot started✅");
+res.send("𝘼𝙇𝙀𝙓-𝙈𝘿 𝘽𝙊𝙏 𝙎𝙏𝘼𝙍𝙏𝙀𝘿✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
