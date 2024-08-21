@@ -1,4 +1,4 @@
-## <p align="center"> 𝗔𝗟𝗘𝗫-MD WHATSAPP BOT
+ 𝗔𝗟𝗘𝗫-MD WHATSAPP BOT
 
 <br>
 <br>
