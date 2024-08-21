@@ -1,12 +1,41 @@
-## <p align="center"> 𝗔𝗟𝗘𝗫-MD WHATSAPP BOT
-<br>
-<br>
+<div align="center">
+    <b>𝗔𝗟𝗘𝗫-𝗠𝗗  𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧</b> 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=ALEX-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20ALEX-ID%20Programs)
+
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ALEX-MD;CREATED+BY+ALEX-ID_programmer;DARK+HACK+TEAME+LEDER" alt="Typing SVG" /></a>   
+</p> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <p align="center">
+<a href="https://github.com/ALEX-MD">
+    <img src="👻👻👻👻👻👻👻👻👻👻" width="700px">
+  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
 
-  <img src="https://telegra.ph/file/d7e4a702a1b70a78c29ba.jpg" width="540" height="280" />
-</p>         𝐀𝐋𝐄𝐗-𝐌𝐃 
-  
-### ℹ‼️ **About ALED-MD**
-ALEX-MD is a Cool Multi-Device WhatsApp bot developed by [ALEX-ID]
+  <a aria-label="WhatsApp Supported Channel" href="XXXX👻👻👻👻" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <p align="center">
+<a href="https://github.com/Arajuna/ALEX-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      
+<div align="center">
+   
+<a href="https://master-v1-session-c6a0e3471a79.herokuapp.com/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://master-v1-session-c6a0e3471a79.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+OWNER - ALEX-ID
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
