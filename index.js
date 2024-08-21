@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94756857260']
+const ownerNumber = ['94727528807']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting wa bot ♻️...");
+console.log("Connecting wa bot 🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -59,7 +59,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('⚙️ Installing... ')
+console.log('👻 Installing... ')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -67,7 +67,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('Alex bot connected to whatsapp ✅')
+console.log('Alex connected to whatsapp ✅')
 
 let up = `*╭─ `「  𝐀𝙻𝗘𝙓-𝗠𝗗  」`*
 *╰────────────┈*
@@ -87,7 +87,7 @@ https://whatsapp.com/channel/0029VagEOTtHwXbDdrr7Eq3k
 > ⟡━⟪  𝘔𝘙 𝘈𝘓𝘌𝘟 - 𝘐𝘋  ⟫━⟡
            `⦁│ᴘʀᴏɢʀᴀᴍꜱ│⦁``;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/d7e4a702a1b70a78c29ba.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/353e86db7ae0ef9bccec0.jpg` }, caption: up })
 
 }
 })
@@ -179,12 +179,12 @@ mek.type === "stickerMessage"
 ) {
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
-//============================================================================ 
+//=========================================================================== 
 
 })
 }
 app.get("/", (req, res) => {
-res.send("> *𝘼𝙇𝙀𝙓-𝙈𝘿 𝘽𝙊𝙏 𝙎𝙏𝘼𝙍𝙏𝙀𝘿✅*");
+res.send("hey, bot started✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
