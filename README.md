@@ -10,8 +10,7 @@
    <p align="center">
 <a href="https://github.com/ALEX-MD">
     <img src="https://telegra.ph/file/d7e4a702a1b70a78c29ba.jpg" width="700px">
-  </a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <p align="center">
  
