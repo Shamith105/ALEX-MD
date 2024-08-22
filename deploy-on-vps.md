@@ -31,7 +31,7 @@
   5.  Clone Repo and install required packages
 
       ```
-      git clone h
+      git clone https://github.com/Arajuna/ALEX-MD.git
       yarn install --network-concurrency 1
       ```
 
